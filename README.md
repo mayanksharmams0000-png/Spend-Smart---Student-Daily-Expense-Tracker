@@ -1,4 +1,4 @@
-SpendSmart - Student Daily Expense Tracker
+# SpendSmart - Student Daily Expense Tracker
 
 SpendSmart is a user-centric mobile application UI designed to empower university students to take control of their personal finances. Developed as a solution for **ICT 3301: Human Computer Interaction**, this project focuses on simplifying expense tracking and budget management through intuitive design.
 
